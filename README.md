@@ -1,25 +1,22 @@
  <img src="./1.png" >
  
-<h3>Basil Al-labadi</h3>
+<h2>Hi there, I'm Basil Al-labadi :wave:</h2>
 
----
 
 <p>I am an energetic and passionate Web Developer , I enjoy learning new skills and mastering them quickly, I like to challenge myself in every task assigned to me, I also use logic and analysis in all aspects of my life
 </p>
 
-## 📝 Table of Contents
 
-- [About](#about)
-- [Getting Started](#getting_started)
-- [Usage](#usage)
-- [Built Using](#built_using)
-- [User Story](#user_story)
-- [Data Flow](#data_flow)
-- [Guided By](#guided_by)
 
-## 🧐 About <a name = "about"></a>
+<h2>About me</h2>
 
-Garage Sooq is an interactive website to display vehicle advertisements and sell them by their owners and display information, pictures and information about their owners. The user can register an account and then login to his account and can add an advertisement for selling his vehicle with all its details of type, model, color and other specifications. After than the guests  can  sort vehicles by its specification and then choose the advertisement and browse the vehicle specifications and the owner informations.
+-  :heart_eyes: FrontEnd and BackEnd , In love with both of them
+- :heart: Love Programming 
+- I cant leave the problem without solving it
+- Analytical thinking is my favorite
+
+
+
 
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
