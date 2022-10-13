@@ -20,10 +20,8 @@
 ## Contact me
 <a href="https://www.linkedin.com/in/basilallabadi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:basel.labadi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="{BadgeURLHere}" />
-<img src="{BadgeURLHere}" />
-<img src="{BadgeURLHere}" />
-<img src="{BadgeURLHere}" />
+<a href="https://github.com/basilAllabadi"></a><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+
 
 ### Prerequisites
 
