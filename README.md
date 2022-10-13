@@ -23,8 +23,8 @@
 <a href="https://github.com/basilAllabadi"></a><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 
 
-### Prerequisites
-
+## 🧰 Languages & Tools
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 - Visual Studio Code follow this <a href=''>link</a> to install.
 - Git Bash follow this <a href=''>link</a> to install.
 - MongoDB follow this <a href=''>link</a> to install.
