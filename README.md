@@ -11,17 +11,19 @@
 <h2>About me</h2>
 
 -  :heart_eyes: FrontEnd and BackEnd , In love with both of them
-- :heart: Love Programming 
-- I cant leave the problem without solving it
-- Analytical thinking is my favorite
+-  :heart: Love Programming 
+-  :v: I cant leave the problem without solving it
+-  :microscope: Analytical thinking is my favorite
 
 
 
-
-
-## 🏁 Getting Started <a name = "getting_started"></a>
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+## Contact me
+<a href="https://www.linkedin.com/in/basilallabadi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<img src="{BadgeURLHere}" />
+<img src="{BadgeURLHere}" />
+<img src="{BadgeURLHere}" />
+<img src="{BadgeURLHere}" />
+<img src="{BadgeURLHere}" />
 
 ### Prerequisites
 
